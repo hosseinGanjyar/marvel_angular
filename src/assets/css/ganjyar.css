@@ -1,0 +1,15 @@
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: #68c0d7
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link .active {
+    color: #e06641
+}
+
+.dark-mode .svg #img-fluid{
+   content: url('../images/Cymon_-_Light.svg');
+}
+
+.dark-mode .card {
+    background: #414a4f;
+  } 
+

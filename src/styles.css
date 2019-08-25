@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* @import url("assets/css/ganjyar.scss"); */
+
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
+@import url("assets/css/bootstrap.min.css");
+@import '~fullpage.js/dist/fullpage.min.css';
+@import url("assets/css/unicons.css");
+@import url("assets/css/team.css");
+@import url("assets/css/flickity.css");
+@import url("assets/css/tooplate-style.css");
+@import url("assets/css/style.css");
+@import url("assets/css/ganjyar.css");
+
